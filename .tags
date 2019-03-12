@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+Working with APIs and Nested Data Structures	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^# Working with APIs and Nested Data Structures$/;"	function	line:1
+Objectives	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+Overview	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^## Overview$/;"	function	line:10
+What's an API?	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^## What's an API?$/;"	function	line:18
+What's JSON?	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^## What's JSON?$/;"	function	line:26
+How can Ruby Send a Web Request?	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^## How can Ruby Send a Web Request?$/;"	function	line:29
+Instructions	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:99
+Understanding our Program	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^### Understanding our Program$/;"	function	line:103
+`bin/run.rb`	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^### `bin\/run.rb`$/;"	function	line:119
+!/usr/bin/env ruby	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^#!\/usr\/bin\/env ruby$/;"	function	line:124
+`lib/api_communicator.rb`	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^### `lib\/api_communicator.rb`$/;"	function	line:142
+`lib/command_line_interface.rb`	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^### `lib\/command_line_interface.rb`$/;"	function	line:464
+Bonus	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/README.md	/^## Bonus$/;"	function	line:468
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+welcome	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/lib/command_line_interface.rb	/^def welcome$/;"	method	line:1
+get_character_from_user	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/lib/command_line_interface.rb	/^def get_character_from_user$/;"	method	line:5
+get_character_movies_from_api	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/lib/api_communicator.rb	/^def get_character_movies_from_api(character_name)$/;"	method	line:5
+print_movies	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/lib/api_communicator.rb	/^def print_movies(films)$/;"	method	line:21
+show_character_movies	/Users/manon/Development/code/apis-and-iteration-london-web-career-031119/lib/api_communicator.rb	/^def show_character_movies(character)$/;"	method	line:25
